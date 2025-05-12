@@ -1,5 +1,3 @@
-Terraform module for creating Azure Web App service with Free Azure Service Plan.
-
 ## Description
 
 This Terraform module creates an Azure Web App service with a Free tier App Service Plan. It provides a simple way to deploy web applications to Azure with minimal configuration.
